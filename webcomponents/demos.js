@@ -1,5 +1,5 @@
 import { LitElement, html, css } from 'lit-element';
-import './01-basic-setup.js';
+import './hello-world/helloworld';
 
 class BasicDemos extends LitElement {
   static get styles() {

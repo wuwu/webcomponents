@@ -1,0 +1,27 @@
+{
+  "name": "@wuwu_/llwrldcmpnnt",
+  "description": "simple hello world components",
+  "version": "0.0.1",
+  "main": "helloworld.js",
+  "module": "helloworld.js",
+  "devDependencies": {
+    "lit-element": "^2.2.1"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuwu/webcomponents.git"
+  },
+  "keywords": [
+    "webcomponents"
+  ],
+  "author": "wuwu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuwu/webcomponents/issues"
+  },
+  "homepage": "https://github.com/wuwu/webcomponents#readme"
+}
