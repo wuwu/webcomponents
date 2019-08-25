@@ -1,13 +1,12 @@
 {
   "name": "@wuwu_/llwrldcmpnnt",
   "description": "simple hello world components",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "helloworld.js",
   "module": "helloworld.js",
   "devDependencies": {
     "lit-element": "^2.2.1"
   },
-  "dependencies": {},
   "scripts": {
     "test": "echo \"no test specified\""
   },
