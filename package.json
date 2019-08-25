@@ -1,0 +1,37 @@
+{
+  "name": "webcomponents",
+  "version": "0.0.1",
+  "description": "webcomponents build with lit-element",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "conpile": "webpack",
+    "start": "webpack-dev-server --open --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuwu/webcomponents.git"
+  },
+  "keywords": [
+    "webcomponents"
+  ],
+  "author": "wwwuwu@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuwu/webcomponents/issues"
+  },
+  "homepage": "https://github.com/wuwu/webcomponents#readme",
+  "dependencies": {
+    "@polymer/paper-card": "^3.0.1",
+    "@webcomponents/webcomponentsjs": "^2.2.10",
+    "lit-element": "^2.2.1",
+    "lit-html": "^1.1.2"
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.7",
+    "webpack-dev-server": "^3.8.0"
+  }
+}
